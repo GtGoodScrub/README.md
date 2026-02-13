@@ -2,21 +2,18 @@
 
 Software Engineer specializing in backend development, C Languages, and game development. Currently based in Surrey, Canada.
 
-🚀 About Me
+🚀 About Me:
 I'm passionate about building scalable applications and integrating systems that solve real-world problems. With 3+ years of experience in software engineering, I've worked on a range of projects from portfolio websites to game platforms.
 
 🔭 Currently developing a Geography Quiz Game App while exploring 3D Modelling via SketchUp for personal projects.
 🌱 Learning advanced mobile development.
 👯 Open to collaborating on innovative projects with positive impact.
 
-
-💻 Tech Stack
+💻 Tech Stack:
 C++, C#, Java, JavaScript, TypeScript, Kotlin, React, Node.js 
-
 MySQL, Git, Figma, Android Studios
 
 🏆 Featured Projects
-
 Geography Quiz Game App — (Personal Project)
 * Designed and implemented user-friendly mobile quiz application layout among a team of three in UX Design class.
 * Implemented scoreboard logic to track, update, and persist high scores using Kotlin, ensuring correct state updates during gameplay.
