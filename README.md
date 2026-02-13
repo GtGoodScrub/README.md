@@ -12,7 +12,7 @@ I'm passionate about building scalable applications and integrating systems that
 💻 Tech Stack:
 C++, C#, Java, JavaScript, TypeScript, Kotlin, React, Node.js, MySQL, Git, Figma, Android Studios
 
-🏆 Featured Projects
+🏆 Featured Projects:
 Geography Quiz Game App — (Personal Project)
 * Designed and implemented user-friendly mobile quiz application layout among a team of three in UX Design class.
 * Implemented scoreboard logic to track, update, and persist high scores using Kotlin, ensuring correct state updates during gameplay.
