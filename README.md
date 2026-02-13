@@ -6,7 +6,9 @@ Software Engineer specializing in backend development, C Languages, and game dev
 I'm passionate about building scalable applications and integrating systems that solve real-world problems. With 3+ years of experience in software engineering, I've worked on a range of projects from portfolio websites to game platforms.
 
 🔭 Currently developing a Geography Quiz Game App while exploring 3D Modelling via SketchUp for personal projects.
+
 🌱 Learning advanced mobile development.
+
 👯 Open to collaborating on innovative projects with positive impact.
 
 💻 Tech Stack:
