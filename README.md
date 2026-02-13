@@ -10,8 +10,7 @@ I'm passionate about building scalable applications and integrating systems that
 👯 Open to collaborating on innovative projects with positive impact.
 
 💻 Tech Stack:
-C++, C#, Java, JavaScript, TypeScript, Kotlin, React, Node.js 
-MySQL, Git, Figma, Android Studios
+C++, C#, Java, JavaScript, TypeScript, Kotlin, React, Node.js, MySQL, Git, Figma, Android Studios
 
 🏆 Featured Projects
 Geography Quiz Game App — (Personal Project)
